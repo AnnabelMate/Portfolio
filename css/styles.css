@@ -9,3 +9,6 @@ img {
     width: 200;
     height: 400;
 }
+img {
+    float: center;
+}
